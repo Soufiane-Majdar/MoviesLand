@@ -6,7 +6,7 @@ import SearchIcon from "./search.svg";
 import "./App.css";
 
 // OMDB api key : bb773d77
-const API_URL = "http://www.omdbapi.com/?apikey=bb773d77";
+const API_URL = "https://www.omdbapi.com/?apikey=bb773d77";
 
 
 
