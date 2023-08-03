@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MoviesLand/static/css/main.334bdeb1.css",
-    "main.js": "/MoviesLand/static/js/main.09d5f36c.js",
+    "main.js": "/MoviesLand/static/js/main.46b2778b.js",
     "index.html": "/MoviesLand/index.html",
     "static/media/search.svg": "/MoviesLand/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
     "main.334bdeb1.css.map": "/MoviesLand/static/css/main.334bdeb1.css.map",
-    "main.09d5f36c.js.map": "/MoviesLand/static/js/main.09d5f36c.js.map"
+    "main.46b2778b.js.map": "/MoviesLand/static/js/main.46b2778b.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.09d5f36c.js"
+    "static/js/main.46b2778b.js"
   ]
 }
